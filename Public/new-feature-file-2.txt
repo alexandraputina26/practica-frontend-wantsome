@@ -1,5 +1,12 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 orice continut random.
+orice continut random.
+lucrez la feature 2.
+=======
+orice continut random.
+lucrez la feature 2.
+>>>>>>> Stashed changes
 =======
 orice continut random.
 lucrez la feature 2.
